@@ -1,0 +1,6 @@
+From github_dempseyucla:dempseyucla/A15
+ * branch            main       -> FETCH_HEAD
+Updating 5ab80f4..e274d42
+Fast-forward
+ one.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
